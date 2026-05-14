@@ -44,7 +44,8 @@ int main() {
 
 ## OUTPUT
 
-<img width="1047" height="200" alt="image" src="https://github.com/user-attachments/assets/2eefd89d-21d7-47dd-8190-a24b0eda73fa" />
+<img width="798" height="299" alt="Screenshot 2026-05-14 094624" src="https://github.com/user-attachments/assets/0cf4ed74-bb33-46cd-b9e2-c72c85dea795" />
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 ```
@@ -92,7 +93,7 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="1018" height="452" alt="Screenshot 2026-05-13 233736" src="https://github.com/user-attachments/assets/0046650a-21bc-4461-915c-fffa99126feb" />
+<img width="803" height="423" alt="Screenshot 2026-05-14 095232" src="https://github.com/user-attachments/assets/02e02be8-9f14-4f4f-b763-855f99dbd28d" />
 
 
 # RESULT:
